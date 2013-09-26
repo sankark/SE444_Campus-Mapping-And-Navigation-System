@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClassMap</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_social_login">SocialLogin</string>
+    <string name="title_activity_schedule">Schedule</string>
+    <string name="title_activity_alter_class">AlterClassActivity</string>
+    <string name="title_activity_directions">Directions</string>
+    <string name="app_id">145824545589706</string>
+    <string name="room_number">Enter Room Number</string>
+    
+    <string-array name="building_array">
+        <item>GOL</item>
+    </string-array>
+    
+    <string-array name="golisano_rooms">
+        <item>1510</item>
+        <item>1530</item>
+        <item>1550</item>
+        <item>1610</item>
+        <item>1630</item>
+        <item>1640</item>
+        <item>1650</item>
+    </string-array>
+    <string name="building_prompt">Choose a building</string>
+    <string name="room_prompt">Choose a room</string>
+
+
+</resources>
